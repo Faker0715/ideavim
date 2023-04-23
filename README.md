@@ -1,1 +1,1 @@
-# ideavim
+### 自用ideavim配置
